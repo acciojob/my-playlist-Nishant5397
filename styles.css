@@ -1,13 +1,18 @@
 body{
     background-color: #cccccc;
-    display: inline-block;
-    justify-content: center;
+    text-align: center;
 }
 .player_one{
     width: 90%;
     background-color: white;
    display: inline-block;
    
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
 }
 .player_two{
     width: 50%;
