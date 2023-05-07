@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+body{
+    background-color: #cccccc;
+    display: inline-block;
+    justify-content: center;
+}
+.player_one{
+    width: 90%;
+    background-color: white;
+   display: inline-block;
+   
+}
+.player_two{
+    width: 50%;
+    background-color: white;
+    justify-content: center;
+}
